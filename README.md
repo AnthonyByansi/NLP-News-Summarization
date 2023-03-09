@@ -38,3 +38,7 @@ Alternatively, you can use the RESTful API to access the summarization functiona
 `text`: The text of the news article you want to summarize.
 `technique`: The summarization technique you want to use (extractive or abstractive).
 `length`: The length of the summary you want to generate.
+
+## Conclusion
+
+The NLP News Summarization tool is a powerful and easy-to-use tool for summarizing news articles. Its customizable and multilingual summarization capabilities make it suitable for a wide range of users. The tool is also available as a RESTful API for programmatic access, making it easy to integrate into other applications. We hope that this tool will help users stay up-to-date with current events and make it easier to access important information quickly and efficiently.

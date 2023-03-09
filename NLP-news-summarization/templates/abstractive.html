@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+{% block title %}Abstractive Summarization{% endblock %}
+{% block content %}
+  <h1>Abstractive Summarization</h1>
+  <form method="POST" action="{{ url_for('summarize_abstractive') }}">
+    <label for="text">Text to summarize:</label>
+    <textarea name="text" id="text"></textarea>
+    <button type="submit">Summarize</button>
+  </form>
+  {% if summary %}
+    <h2>Summary:</h2>
+    <p>{{ summary }}</p>
+  {% endif %}
+{% endblock %}

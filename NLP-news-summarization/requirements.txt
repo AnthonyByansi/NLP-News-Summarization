@@ -1,0 +1,15 @@
+numpy==1.24.2
+pathy==0.10.1
+preshed==3.0.8
+pydantic==1.10.6
+regex==2022.10.31
+smart-open==6.3.0
+spacy==3.5.0
+spacy-legacy==3.0.12
+spacy-loggers==1.0.4
+srsly==2.4.6
+thinc==8.1.9
+tqdm==4.65.0
+typer==0.7.0
+wasabi==1.1.1
+Werkzeug==2.2.3

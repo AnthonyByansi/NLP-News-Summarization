@@ -19,4 +19,5 @@ The NLP News Summarization tool provides the following features:
 
 To install the NLP News Summarization tool, follow these steps:
 
-1. Clone the repository to your local machine:
+1. Clone the repository to your local machine: `https://github.com/AnthonyByansi/NLP-News-Summarization.git`
+2. 

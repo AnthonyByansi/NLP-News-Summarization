@@ -32,3 +32,5 @@ To use the NLP News Summarization tool, follow these steps:
 * Choose the length of the summary you want to generate.
 * Click the "Summarize" button to generate the summary.
 * The summary will be displayed on the screen.
+
+Alternatively, you can use the RESTful API to access the summarization functionality programmatically. Simply send a POST request to the API endpoint with the following parameters:

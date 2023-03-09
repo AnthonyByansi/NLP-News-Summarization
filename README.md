@@ -21,4 +21,5 @@ To install the NLP News Summarization tool, follow these steps:
 
 1. Clone the repository to your local machine: `https://github.com/AnthonyByansi/NLP-News-Summarization.git`
 2. Install the required packages: `pip install -r requirements.txt`
+3. Run the application: `python app.py`
 

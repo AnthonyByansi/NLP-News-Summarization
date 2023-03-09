@@ -23,3 +23,12 @@ To install the NLP News Summarization tool, follow these steps:
 2. Install the required packages: `pip install -r requirements.txt`
 3. Run the application: `python app.py`
 
+## Usage
+To use the NLP News Summarization tool, follow these steps:
+
+* Open the web application in your browser at http://localhost:5000/.
+* Enter the URL or text of the news article you want to summarize.
+* Select the summarization technique you want to use (extractive or abstractive).
+* Choose the length of the summary you want to generate.
+* Click the "Summarize" button to generate the summary.
+* The summary will be displayed on the screen.

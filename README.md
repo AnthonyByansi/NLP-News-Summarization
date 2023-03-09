@@ -14,3 +14,9 @@ The NLP News Summarization tool provides the following features:
 - **Customizable summarization** : The tool allows users to customize the length of the summary they wish to generate, making it easy to get a summary of any length that meets their needs.
 - **Multilingual summarization** : The tool supports summarization of news articles in multiple languages, including English, Spanish, French, German, and Chinese.
 - **API access** : The tool provides a simple RESTful API for accessing its summarization functionality programmatically.
+
+## Installation
+
+To install the NLP News Summarization tool, follow these steps:
+
+1. Clone the repository to your local machine:
